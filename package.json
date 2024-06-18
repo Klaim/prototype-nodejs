@@ -9,7 +9,7 @@
     "node": "^12.2"
   },
   "dependencies": {
-    "ws": "^7.4.6"
+    "ws": "^7.5.10"
   },
   "repository": {
     "type": "git",
